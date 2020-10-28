@@ -26,4 +26,8 @@
   .column-wide {
      width: 600px;
      float: left;
+     padding: 10px,2px,20px,60px;
 }
+.my-class {
+    border: 2px solid rgb(18, 48, 18);
+  }

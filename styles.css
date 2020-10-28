@@ -1,10 +1,16 @@
  intro {
      width: 50%;
      font-style: italic;
+     color: white;
+     font-style: bold;
+     font-size: 18px;
   }
   body {
     background-image: url('https://www.graphicpear.com/wp-content/uploads/2017/10/halloween-ghost-pattern.jpg');
     background-repeat: repeat;
+    color: white;
+    font-style: bold;
+    font-size: 14px;
   }
   author {
      width: 75%;
@@ -26,8 +32,10 @@
   .column {
     width: 300px;
     float: left;
-    background-color: black;
-    color: cornsilk;
+    background-color: rgb(185, 133, 65);
+    color: white;
+    font-style: bold;
+    font-size: 16px;
     padding: 10px;
   }
   .column-wide {
@@ -40,5 +48,5 @@
      padding: 10px;
 }
 .my-class {
-    border: 2px solid rgb(18, 48, 18);
+    border: 2px solid rgb(247, 247, 247);
   }

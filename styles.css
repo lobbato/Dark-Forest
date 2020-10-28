@@ -23,3 +23,7 @@
     width: 300px;
     float: left;
   }
+  .column-wide {
+     width: 600px;
+     float: left;
+}

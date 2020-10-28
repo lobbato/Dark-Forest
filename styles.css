@@ -1,4 +1,4 @@
- intro {
+ .intro {
      width: 50%;
      font-style: italic;
      color: white;
@@ -17,7 +17,7 @@
     font-style: bold;
     font-size: 14px;
   }
-  author {
+  .author {
      width: 75%;
      font-style: italic;
      font-weight: bold;
@@ -29,7 +29,7 @@
   .unimportant {
     color: rgb(17, 34, 131);
   }
-  sidebar {
+  .sidebar {
     width: 30%;
     float: right;
     background-color: rgb(255, 230, 0);

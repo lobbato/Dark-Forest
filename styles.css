@@ -1,5 +1,5 @@
  .intro {
-     width: 50%;
+     width: 90%;
      font-style: italic;
      color: white;
      border-color: violet;
@@ -29,11 +29,6 @@
   .unimportant {
     color: rgb(17, 34, 131);
   }
-  .sidebar {
-    width: 30%;
-    float: right;
-    background-color: rgb(255, 230, 0);
-  }
   .column {
     width: 80%;
     float: left;
@@ -41,6 +36,7 @@
     color: white;
     font-style: bold;
     font-size: 16px;
+    margin: 10px;
     padding: 10px;
     display: block;
   }

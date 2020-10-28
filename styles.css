@@ -14,3 +14,12 @@
   .unimportant {
     color: rgb(17, 34, 131);
   }
+  sidebar {
+    width: 30%;
+    float: right;
+    background-color: rgb(255, 230, 0);
+  }
+  .column {
+    width: 300px;
+    float: left;
+  }

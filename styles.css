@@ -30,16 +30,17 @@
     background-color: rgb(255, 230, 0);
   }
   .column {
-    width: 300px;
+    width: 80%;
     float: left;
     background-color: rgb(185, 133, 65);
     color: white;
     font-style: bold;
     font-size: 16px;
     padding: 10px;
+    display: block;
   }
   .column-wide {
-     width: 600px;
+     width: 80%;
      float: left;
      padding: 10px,2px,20px,60px;
      color: white;
@@ -48,7 +49,7 @@
      padding: 10px;
      margin: 10px;
      border: violet;
-     box-sizing: border-box;
+     display: block;
 }
 .my-class {
     border: 2px solid rgb(247, 247, 247);

@@ -1,4 +1,19 @@
 
+.h1 {
+    font-size: 18px;
+    font-style: bold;
+    color: black;
+}
+.h2 {
+    font-size: 18px;
+    font-style: bold;
+    color: black;
+}
+.h3 {
+    font-size: 14px;
+    font-style: italic;
+    color: rgb(25, 30, 99);
+}
 .widebox {
     box-sizing: border-box;
     width: 50%;
